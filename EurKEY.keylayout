@@ -49,7 +49,7 @@
 			<key code="3" action="f"/>
 			<key code="4" action="h"/>
 			<key code="5" action="g"/>
-			<key code="6" action="z"/>
+			<key code="6" action="y"/>
 			<key code="7" action="x"/>
 			<key code="8" action="c"/>
 			<key code="9" action="v"/>
@@ -59,7 +59,7 @@
 			<key code="13" action="w"/>
 			<key code="14" action="e"/>
 			<key code="15" action="r"/>
-			<key code="16" action="y"/>
+			<key code="16" action="z"/>
 			<key code="17" action="t"/>
 			<key code="18" action="1"/>
 			<key code="19" action="2"/>
@@ -161,17 +161,17 @@
 			<key code="3" action="F"/>
 			<key code="4" action="H"/>
 			<key code="5" action="G"/>
-			<key code="6" action="Z"/>
+			<key code="6" action="Y"/>
 			<key code="7" action="X"/>
 			<key code="8" action="C"/>
 			<key code="9" action="V"/>
-			<key code="10" output="±"/>
+			<key code="10" output="~"/>
 			<key code="11" action="B"/>
 			<key code="12" action="Q"/>
 			<key code="13" action="W"/>
 			<key code="14" action="E"/>
 			<key code="15" action="R"/>
-			<key code="16" action="Y"/>
+			<key code="16" action="Z"/>
 			<key code="17" action="T"/>
 			<key code="18" action="!"/>
 			<key code="19" action="@"/>
@@ -273,17 +273,17 @@
 			<key code="3" action="F"/>
 			<key code="4" action="H"/>
 			<key code="5" action="G"/>
-			<key code="6" action="Z"/>
+			<key code="6" action="Y"/>
 			<key code="7" action="X"/>
 			<key code="8" action="C"/>
 			<key code="9" action="V"/>
-			<key code="10" output="§"/>
+			<key code="10" output="`"/>
 			<key code="11" action="B"/>
 			<key code="12" action="Q"/>
 			<key code="13" action="W"/>
 			<key code="14" action="E"/>
 			<key code="15" action="R"/>
-			<key code="16" action="Y"/>
+			<key code="16" action="Z"/>
 			<key code="17" action="T"/>
 			<key code="18" action="1"/>
 			<key code="19" action="2"/>
@@ -501,7 +501,7 @@
 			<key code="7" output="Á"/>
 			<key code="8" output="Ç"/>
 			<key code="9" output="Ì"/>
-			<key code="10" output="±"/>
+			<key code="10" output="~"/>
 			<key code="11" output="Í"/>
 			<key code="12" action="Æ"/>
 			<key code="13" output="Å"/>
@@ -1077,7 +1077,7 @@
 		<action id="-">
 			<when state="none" output="-"/>
 			<when state="dead: Ω" output="⁻"/>
-			<when state="dead: √" output="±"/>
+			<when state="dead: √" output="~"/>
 		</action>
 		<action id=".">
 			<when state="none" output="."/>
